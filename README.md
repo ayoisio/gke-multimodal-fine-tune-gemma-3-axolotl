@@ -1,6 +1,12 @@
 ![Banner](./img/banner.png)
 
 
+<br/>
+<br/>
+
+# Multimodal Fine-tuning with Gemma 3 and Axolotl for Melanoma Detection
+
+
 This repository demonstrates how to fine-tune Gemma 3, a multimodal AI model, on the SIIM-ISIC Melanoma Classification dataset using Axolotl and Google Kubernetes Engine (GKE). The implementation provides a complete pipeline for preparing medical imaging data, fine-tuning, and evaluating model performance.
 
 ![Performance Comparison](./img/results/model_performance_comparison.png)
