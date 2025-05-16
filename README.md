@@ -230,19 +230,10 @@ to be malignant melanoma.' or 'No, this does not appear to be malignant melanoma
 
 For questions or issues:
 - Open an issue in this repository
-- Refer to the [Axolotl documentation](https://github.com/OpenAccess-AI-Collective/axolotl)
+- Refer to [Axolotl's documentation](https://docs.axolotl.ai/)
+- Check [Axolotl's Discord](https://discord.com/invite/HhrNrHJPRb)
 - Check Google Cloud's [GKE documentation](https://cloud.google.com/kubernetes-engine/docs)
-
-## Acknowledgments
-
-- Dataset: SIIM-ISIC Melanoma Classification Challenge
-- Axolotl: Open-source fine-tuning framework
-- Google Cloud: Infrastructure and GKE environment
-- Gemma 3: Multimodal foundation model
-
-## License
-
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+- Check Google Cloud's [Community forums](https://cloud.google.com/communities?hl=en)
 
 ## Citation
 
@@ -255,7 +246,7 @@ If you use this code in your research or project, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/your-username/gke-multimodal-fine-tune-gemma-3-axolotl}}
+  howpublished = {\url{https://github.com/ayoisio/gke-multimodal-fine-tune-gemma-3-axolotl}}
 }
 ```
 
@@ -265,4 +256,3 @@ If you use this code in your research or project, please cite:
 - Apply this framework to other medical imaging domains
 - Implement more sophisticated data augmentation for improved performance
 - Integrate with clinical workflows for real-world evaluation
-# gke-multimodal-fine-tune-gemma-3-axolotl
